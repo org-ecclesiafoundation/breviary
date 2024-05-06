@@ -1,4 +1,4 @@
-article_1:
+article-1:
   topic: Creation
   contents:
     - text: I believe in God the Father Almighty, Maker of heaven and earth.
@@ -31,7 +31,7 @@ article_1:
     praise, serve and obey Him.
 
     This is most certainly true.
-article_2:
+article-2:
   topic: Redemption
   contents:
     - text: And in Jesus Christ, His only Son, our Lord,
@@ -113,7 +113,7 @@ article_2:
     from the dead, lives and reigns to all eternity.
 
     This is most certainly true.
-article_3:
+article-3:
   topic: Sanctification
   contents:
     - text: I believe in the Holy Spirit,
