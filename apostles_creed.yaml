@@ -1,0 +1,120 @@
+article_1:
+  topic: Creation
+  contents:
+    - text: I believe in God the Father Almighty, Maker of heaven and earth.
+      refs:
+        - Habakkuk 2:4
+        - Romans 4:5
+        - Deuteronomy 6:4
+        - 1 Corinthians 8:6
+        - Psalm 89:27
+        - Matthew 7:11
+        - Genesis 7:1
+        - 2 Corinthians 6:18
+        - Psalm 33:6
+        - John 5:17
+  explanation: |
+    What does this mean?
+article_2:
+  topic: Redemption
+  contents:
+    - text: And in Jesus Christ, His only Son, our Lord,
+      refs:
+        - Zechariah 9:9
+        - Matthew 1:21
+        - Daniel 9:24
+        - John 3:34
+        - Zechariah 13:7
+        - John 1:14
+        - Psalm 2:7
+        - Matthew 16:16
+        - Jeremiah 23:6
+        - John 20:28
+    - text: who was conceived by the Holy Spirit,
+      refs:
+        - Jeremiah 31:22
+        - Luke 1:31
+        - Daniel 2:45
+        - Matthew 1:20
+    - text: born of the Virgin Mary,
+      refs:
+        - Isaiah 7:14
+        - Luke 1:43
+    - text: suffered under Pontius Pilate,
+      refs:
+        - Isaiah 50:6
+        - Luke 23:25
+        - Psalm 2:2
+        - Luke 18:32
+    - text: was crucified, died, and was buried.
+      refs:
+        - Psalm 22:17
+        - John 3:14
+        - Daniel 9:26
+        - Romans 5:8
+        - Isaiah 53:9
+        - John 12:24
+    - text: He descended into hell.
+      refs:
+        - Psalm 16:10
+        - Ephesians 4:9
+    - text: The third day He rose again from the dead.
+      refs:
+        - Hosea 6:2
+        - Matthew 26:32
+        - Acts 10:40-41
+        - Isaiah 63:1
+        - 2 Timothy 2:8
+    - text: He ascended into heaven
+      refs:
+        - Psalm 68:19
+        - Colossians 2:15
+    - text: and sits at the right hand of God, the Father Almighty.
+      refs:
+        - Psalm 110:1
+        - Mark 16:19
+    - text: From thence He will come to judge the living and the dead.
+      refs:
+        - Isaiah 66:15
+        - Acts 1:11
+        - Wisdom 6:6
+        - Acts 17:31
+        - Daniel 12:2
+        - 1 Corinthians 15:51
+  explanation: |
+    What does this mean?
+article_3:
+  topic: Sanctification
+  contents:
+    - text: I believe in the Holy Spirit,
+      refs:
+        - Zecharaiah 12:10
+        - John 15:26
+    - text: the holy catholic (Christian) church,
+      refs:
+        - Psalm 45:14
+        - Ephesians 5:26
+        - Psalm 22:26
+        - Matthew 16:18
+    - text: the communion of saints,
+      refs:
+        - "Exodus 19:5"
+        - "Ephesians 4:3"
+    - text: the forgiveness of sins,
+      refs:
+        - Psalm 32:1
+        - Acts 10:43
+    - text: the resurrection of the body,
+      refs:
+        - Isaiah 66:14
+        - John 5:28
+    - text: and the life everlasting.
+      refs:
+        - Psalm 16:11
+        - 1 Peter 1:4
+    - text: Amen.
+      refs:
+        - Psalm 72:19
+        - 2 Corinthians 1:20
+  explanation: |
+    What does this mean?
