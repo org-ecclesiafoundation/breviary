@@ -1,16 +1,24 @@
 article-1:
   topic: Creation
   contents:
-    - text: I believe in God the Father Almighty, Maker of heaven and earth.
+    - text: I believe
       refs:
         - Habakkuk 2:4
         - Romans 4:5
+    - text: in God
+      refs:
         - Deuteronomy 6:4
         - 1 Corinthians 8:6
+    - text: the Father
+      refs:
         - Psalm 89:27
         - Matthew 7:11
+    - text: Almighty,
+      refs:
         - Genesis 7:1
         - 2 Corinthians 6:18
+    - text: Maker of heaven and earth.
+      refs:
         - Psalm 33:6
         - John 5:17
   explanation: >
@@ -34,51 +42,73 @@ article-1:
 article-2:
   topic: Redemption
   contents:
-    - text: And in Jesus Christ, His only Son, our Lord,
+    - text: And in Jesus
       refs:
         - Zechariah 9:9
         - Matthew 1:21
+    - text: Christ,
+      refs:
         - Daniel 9:24
         - John 3:34
+    - text: His only
+      refs:
         - Zechariah 13:7
         - John 1:14
+    - text: Son,
+      refs:
         - Psalm 2:7
         - Matthew 16:16
+    - text: our Lord,
+      refs:
         - Jeremiah 23:6
         - John 20:28
-    - text: who was conceived by the Holy Spirit,
+    - text: who was conceived
       refs:
         - Jeremiah 31:22
         - Luke 1:31
+    - text: by the Holy Spirit,
+      refs:
         - Daniel 2:45
         - Matthew 1:20
-    - text: born of the Virgin Mary,
+    - text: born
+      refs:
+        - Isaiah 9:6
+        - John 1:14
+    - text: of the Virgin Mary,
       refs:
         - Isaiah 7:14
         - Luke 1:43
-    - text: suffered under Pontius Pilate,
+    - text: suffered
       refs:
         - Isaiah 50:6
         - Luke 23:25
+    - text: under Pontius Pilate,
+      refs:
         - Psalm 2:2
         - Luke 18:32
-    - text: was crucified, died, and was buried.
+    - text: was crucified,
       refs:
         - Psalm 22:17
         - John 3:14
+    - text: died,
+      refs:
         - Daniel 9:26
         - Romans 5:8
+    - text: and was buried.
+      refs:
         - Isaiah 53:9
         - John 12:24
     - text: He descended into hell.
       refs:
         - Psalm 16:10
         - Ephesians 4:9
-    - text: The third day He rose again from the dead.
+    - text: The third day
       refs:
         - Hosea 6:2
         - Matthew 26:32
         - Acts 10:40-41
+    - text: He rose again from the dead.
+      refs:
         - Isaiah 63:1
         - 2 Timothy 2:8
     - text: He ascended into heaven
@@ -89,12 +119,16 @@ article-2:
       refs:
         - Psalm 110:1
         - Mark 16:19
-    - text: From thence He will come to judge the living and the dead.
+    - text: From thence He will come
       refs:
         - Isaiah 66:15
         - Acts 1:11
+    - text: to judge
+      refs:
         - Wisdom 6:6
         - Acts 17:31
+    - text: the living and the dead.
+      refs:
         - Daniel 12:2
         - 1 Corinthians 15:51
   explanation: >
@@ -120,10 +154,12 @@ article-3:
       refs:
         - Zecharaiah 12:10
         - John 15:26
-    - text: the holy catholic/Christian church,
+    - text: the holy
       refs:
         - Psalm 45:14
         - Ephesians 5:26
+    - text: catholic/Christian church,
+      refs:
         - Psalm 22:26
         - Matthew 16:18
     - text: the communion of saints,
