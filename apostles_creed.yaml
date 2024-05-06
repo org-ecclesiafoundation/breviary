@@ -1,4 +1,4 @@
-article-1:
+- article: 1
   topic: Creation
   contents:
     - text: I believe
@@ -39,7 +39,7 @@ article-1:
     praise, serve and obey Him.
 
     This is most certainly true.
-article-2:
+- article: 2
   topic: Redemption
   contents:
     - text: And in Jesus
@@ -137,7 +137,7 @@ article-2:
     I believe that Jesus Christ, true God, begotten of the Father from eternity,
     and also true man, born of the Virgin Mary, is my Lord.
 
-    who has redeemed me, a lost and condemned person, purchased and wone me from
+    who has redeemed me, a lost and condemned person, purchased and won me from
     all sins, from death, and from the power of the devil; not with gold or
     silver, but with His holy, precious blood and with with His innocent
     suffering and death,
@@ -147,7 +147,7 @@ article-2:
     from the dead, lives and reigns to all eternity.
 
     This is most certainly true.
-article-3:
+- article: 3
   topic: Sanctification
   contents:
     - text: I believe in the Holy Spirit,
